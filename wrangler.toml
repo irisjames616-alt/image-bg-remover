@@ -1,0 +1,11 @@
+name = "image-bg-remover"
+main = "worker/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+
+[build]
+command = ""
+
+[[assets]]
+bucket = "./frontend"
